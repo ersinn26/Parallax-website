@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-image: url(./img/bg.jpg);
+  opacity: 0.7;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.title {
+  color: rgb(241, 234, 234);
+  font-size: 70px;
+  position: absolute;
+  background-color: black;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  border: 5px solid rgb(15, 15, 15);
+  padding: 35px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  outline: 10px solid rgb(116, 11, 126);
+  outline-offset: 1rem;
+}
+
+.content {
+  padding: 80px;
+  text-align: center;
+  font-size: 25px;
+  background-color: rgb(240, 238, 235);
+}
+
+.subtitle {
+  padding-bottom: 30px;
+  font-size: 40px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(121, 109, 109);
+}
+
+.image {
+  background-image: url(./img/bg2.jpg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  opacity: 0.7;
+}
+.clarusway {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40%;
+  height: auto;
+}
+
+.content2 {
+  padding: 80px;
+  text-align: center;
+  font-size: 25px;
+  background-color: rgb(34, 33, 33);
+}
+
+.subtitle2 {
+  padding-bottom: 30px;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.text2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.content3 {
+  background-image: url(./img/bg3.jpg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  opacity: 0.7;
+}
+.title2 {
+  color: rgb(241, 234, 234);
+  font-size: 70px;
+  position: absolute;
+  background-color: black;
+  text-align: center;
+  width: 70%;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Lato", sans-serif;
+  border: 5px solid rgb(15, 15, 15);
+  padding: 35px;
+
+  outline: 10px solid rgb(116, 11, 126);
+}
+.content4 {
+  padding: 80px;
+  text-align: center;
+  font-size: 25px;
+  background-color: rgb(240, 238, 235);
+}
+
+.subtitle3 {
+  padding-bottom: 30px;
+  font-size: 30px;
+  color: rgb(39, 37, 37);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.text3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(51, 49, 49);
+}
+
+.content5 {
+  background-image: url(./img/bg4.jpg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  opacity: 0.7;
+}
+
+.title4 {
+  color: rgb(241, 234, 234);
+  font-size: 70px;
+  position: absolute;
+  background-color: black;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  border: 5px solid rgb(15, 15, 15);
+  padding: 25px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  outline: 10px solid rgb(116, 11, 126);
+  outline-offset: 0rem;
+  width: 70%;
+}
+
+.content6 {
+  padding: 80px;
+  text-align: center;
+  font-size: 25px;
+  background-color: rgb(25, 23, 37);
+}
+
+.subtitle4 {
+  padding-bottom: 30px;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.text4 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.content7 {
+  background-image: url(./img/bg5.jpg);
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  opacity: 0.7;
+}
