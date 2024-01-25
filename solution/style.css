@@ -112,7 +112,7 @@
   font-family: "Lato", sans-serif;
   border: 5px solid rgb(15, 15, 15);
   padding: 35px;
-
+outline-offset: 1rem;
   outline: 10px solid rgb(116, 11, 126);
 }
 .content4 {
@@ -162,7 +162,7 @@
   border-top-left-radius: 50px;
   border-bottom-right-radius: 50px;
   outline: 10px solid rgb(116, 11, 126);
-  outline-offset: 0rem;
+  outline-offset: 1rem;
   width: 40%;
 }
 
